@@ -1,1 +1,1 @@
-# cousera_project_2
+# cousera capstone project
